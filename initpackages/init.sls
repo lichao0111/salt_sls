@@ -18,3 +18,13 @@ essential-packages:
       - gd-devel
       - xinetd
       - openssl-devel
+      - net-snmp 
+      - net-snmp-utils 
+      - iptraf 
+      - wget 
+      - tcpdump 
+      - bc  
+      - unzip 
+      - rsync 
+      - irqbalance 
+      - glib2-devel
